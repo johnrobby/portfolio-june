@@ -1,0 +1,33 @@
+#container{
+    
+    background: url(bg-1.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100vh;
+    background-attachment: scroll;
+    padding: 40px;
+
+
+}
+body{
+    margin: 0px;
+    color: white;
+    font-size: 1.2em;
+
+}
+#card{
+    max-width: 800px;
+    background-color: rgba(0, 0, 0, 0.5);
+    margin:auto;
+    
+    padding: 40px
+}
+a:visited{
+    color:grey
+
+}
+a{
+    color:grey
+}
